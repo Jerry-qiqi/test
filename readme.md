@@ -1,14 +1,5 @@
 > AI Web 端从空目录起步，一周内交付 MVP 版本——SSE 流式传输层、AI 聊天 UI（全页面 + 浮动挂件双模式）、业务卡片支持，全部就位。这篇文章分享我们在这个过程中沉淀出的 AI 工作流：**Ray**——一条 10 个 Agent 组成的 Spec-Driven 自治开发流水线。
 
-***
-
-Skill文件：
-
-[skills.zip]()
-
-> 若文件无法下载，请申请git权限
-> Gitlab地址：https://git.fulltrust.link/fe/ai-plugin-ray 。权限可以找`@EK-MARKET-FE-RDJ`开
-
 ## 我们遇到的问题
 
 AI 编程助手大家都在用了。但我们在实际开发中发现，大多数人用它的方式是——**让 AI 帮我写一段代码**。
